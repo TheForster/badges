@@ -4,3 +4,4 @@ return params.toString();
 
 console.log(x("uwu"))
 // fix
+console.log("test")
